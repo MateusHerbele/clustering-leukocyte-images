@@ -16,7 +16,7 @@ source myenv/bin/activate
 Para ativar o ambiente virtual:
 
 ```bash
-unzip ALL_IDB2.zip
+unzip ALL_IDB2.zip -d ALL_IDB2
 ```
 
 ## Para instalar os requirements
