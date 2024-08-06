@@ -11,6 +11,14 @@ Para ativar o ambiente virtual:
 source myenv/bin/activate
 ```
 
+## Como criar a pasta com as imagens
+
+Para ativar o ambiente virtual:
+
+```bash
+unzip ALL_IDB2.zip
+```
+
 ## Para instalar os requirements
 ```
 pip install -r requirements.txt
