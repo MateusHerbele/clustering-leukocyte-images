@@ -5,16 +5,11 @@ Ana Paula Sodré, GRR: 20190353
 
 ## Como rodar o Environment Python
 
-Para ativar o ambiente virtual:
-
 ```bash
 source myenv/bin/activate
 ```
 
 ## Como criar a pasta com as imagens
-
-Para ativar o ambiente virtual:
-
 ```bash
 unzip ALL_IDB2.zip -d ALL_IDB2
 ```
